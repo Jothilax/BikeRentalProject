@@ -1,0 +1,11 @@
+.contactus{
+    background-color: rgb(185, 189, 189);
+    min-height:83vh ;  
+    min-width: 100%;
+}
+
+.content2{
+   font-size: large;
+   font-family: Arial, Helvetica, sans-serif;
+   padding: 2rem;
+}

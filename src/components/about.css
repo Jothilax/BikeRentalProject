@@ -1,0 +1,35 @@
+#about{
+    background-color: rgb(185, 189, 189);
+    min-height:83vh ;  
+    min-width: 100%;
+}
+#abouth1{
+    margin: 2rem;
+    color: black;
+}
+.aboutp{
+    margin-left: 2rem;
+    color: black;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+   
+}
+.abtcrd{
+    margin-top: 2rem;
+    background-color: aqua;
+    width: 70vh;
+    height: 25vh;
+    border-radius: 2rem;
+
+}
+#abtcrdp{
+    color: black;
+}
+icon{
+    width: 20vh;
+    height: 20vh;
+}
+/* FontAwesomeIcon{
+    margin: 2rem;
+} */

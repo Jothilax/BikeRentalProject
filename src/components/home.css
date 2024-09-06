@@ -1,0 +1,42 @@
+#bgimg{
+    height:120vh ;  
+    width: 100%;
+    background: url('/src/asserts/pic1.jpg');
+    background-size:cover;
+    position: absolute;
+    top: 3rem;
+   
+}
+.hero_title{
+    
+    height: 30vh;
+    width: 50vh;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    position: absolute;
+    font-weight: bold;
+    top: 40vh;
+    left:110vh;
+}
+#homep{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    position: absolute;
+    font-weight: bold;
+    top: 55vh;
+    left:110vh;
+}
+#homebtn{
+    width: 30vh;
+    height: 10vh;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    position: absolute;
+    font-weight:bolder;
+    top: 60vh;
+    left:120vh;
+    background-color:  rgb(9, 9, 161);
+    border-color:  rgb(9, 9, 161);
+    border-radius: 10px;
+    
+}

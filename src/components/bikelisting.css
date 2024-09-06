@@ -1,0 +1,14 @@
+
+.bike{
+    background-color: rgb(185, 189, 189);
+    min-height:83vh ;  
+    min-width: 100%;
+}
+.card{
+    width: 22rem;
+   height: 20rem;
+}
+.cardimg{
+    width: 15rem;
+    height: 10rem;
+}

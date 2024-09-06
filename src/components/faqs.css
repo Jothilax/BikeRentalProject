@@ -1,0 +1,11 @@
+
+#FAQs{
+    background-color: rgb(185, 189, 189);
+    min-height:83vh ;  
+    min-width: 100%;
+}.containerfaq{
+    background-color: rgb(126, 113, 240);
+    border-radius: 1rem;
+    height: 25rem;
+    margin-left: 2rem;
+}
